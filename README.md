@@ -7,15 +7,13 @@
 4. [Methodology](#methodology)
 5. [Analysis Results](#analysis-results)
 6. [Technologies Used](#technologies-used)
-7. [How to Run the Project](#how-to-run-the-project)
-8. [Conclusion](#conclusion)
-9. [License](#license)
+7. [Conclusion](#conclusion)
 
 ---
 
 ## Project Overview
 
-In this project, I analyze e-commerce sales data to identify key sales trends, customer behavior patterns, and perform customer segmentation. The goal is to uncover insights that can help an e-commerce business optimize marketing, inventory, and sales strategies. By leveraging data analysis techniques, I aim to provide actionable recommendations to improve business operations. This is my Data Analysis project as a Capstone for my SCTP Data Analysis course
+- In this project, I analyze e-commerce sales data to identify key sales trends, customer behavior patterns, and perform customer segmentation. The goal is to uncover insights that can help an e-commerce business optimize marketing, inventory, and sales strategies. By leveraging data analysis techniques, I aim to provide actionable recommendations to improve business operations. This is my Data Analysis project as a Capstone for my SCTP Data Analysis course
 ---
 
 ## Objective
@@ -102,7 +100,7 @@ This project utilizes the following technologies and tools:
 
 ---
 
-## Details
+## Conclusion
 
 ### What You Learned
 
