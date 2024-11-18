@@ -1,14 +1,20 @@
 # My first capstone placeholder readme
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### An analysis of E-commerce data of actual transactions from UK retailer
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 Description of dataset
 
-(Para about your findings and techniques you used) "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Context
+Typically e-commerce datasets are proprietary and consequently hard to find among publicly available data. However, The UCI Machine Learning Repository has made this dataset containing actual transactions from 2010 and 2011. The dataset is maintained on their site, where it can be found by the title "Online Retail".
+
+Content
+"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers."
+
+Acknowledgements
+Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
